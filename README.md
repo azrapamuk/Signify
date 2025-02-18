@@ -11,6 +11,10 @@
 
 This application uses advanced techniques for hand movement analysis, offering wide possibilities for implementation in various domains such as **interactive systems**, **gesture interfaces**, and **social interactions**.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c16254ee-e092-41dd-857b-2ad534c744ea" alt="signify" />
+</p>
+
 ## Key Features
 
 - **Real-time sign and gesture recognition:** Uses the camera to analyze hand movements and recognize gestures, enabling a broad range of applications beyond ASL.
